@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a6a527c7d7f0f6545bcb7ffeb43816e1
+timeCreated: 1507400816
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - EffectMat: {fileID: 2100000, guid: a20aecd949457e544a824558ddb58ccb, type: 2}
+  - DammageMat: {fileID: 2100000, guid: df6396ae1fe4de743b15ef8206e2602c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
